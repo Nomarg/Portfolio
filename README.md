@@ -28,11 +28,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Abhii's Portfolio] <a name="about-project"></a>
 
 > It is first project of microverse to show how I use tools.
 
-**Hello Microverse** is a great project to learn about Linters.
+**Abhii's Portfolio** is a great project to learn about Linters.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
