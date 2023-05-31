@@ -30,9 +30,9 @@
 
 # 📖 [Abhii's Portfolio] <a name="about-project"></a>
 
-> It is first project of microverse to show how I use tools.
+> It is second project of microverse building a portfolio.
 
-**Abhii's Portfolio** is a great project to learn about Linters.
+**Abhii's Portfolio** is a great project to learn HTML and CSS.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
